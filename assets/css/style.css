@@ -19,7 +19,7 @@ body {
 header {
 	float: left;
 	margin-bottom: 0;
-	padding: 0px;
+	padding: 25px 0 0 0;
 }
 
 h1 {
@@ -59,7 +59,7 @@ nav a:visited {
 
 hr {
 	border-color: #ccc;
-	border-width: 2px;
+	border-width: 1.5px;
 	border-style: solid;
 }
 
